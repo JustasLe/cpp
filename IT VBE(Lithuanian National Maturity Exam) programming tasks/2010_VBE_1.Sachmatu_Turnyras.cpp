@@ -41,5 +41,5 @@ int main () {
     /// suskaiciuojam ir isvedam atsakyma
     int atsakymas = kiekKomplektu(figuros, mokiniuSkaicius);
     cout << atsakymas << "\n";
-	return 0;
+    return 0;
 }
