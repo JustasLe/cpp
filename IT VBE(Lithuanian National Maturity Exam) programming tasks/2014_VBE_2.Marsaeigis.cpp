@@ -42,7 +42,6 @@ int main () {
                 if (pradziosX == pabaigosX && pradziosY == pabaigosY) {
                     dabartinis.rezultatas = "pasiektas tikslas";
                     baigta = true;
-                    continue;
                 } else {
                     /// atliekame judejimo skaiciavimus ir tikriname bei keiciame rezultata
                     switch (komanda) {
