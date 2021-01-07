@@ -25,7 +25,6 @@ int main () {
     /// pasakome, kad dirbsime su failais
     freopen("U1.txt", "r", stdin);
     freopen("U1.rez.txt", "w", stdout);
-    const int MAX_DYDIS = 110;
     /// sukuriam pradini masyva
     int figuros[FIGURU_KIEKIS] = {0};
     int mokiniuSkaicius;
