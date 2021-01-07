@@ -39,7 +39,7 @@ void skaitytiDuomenis(int &kiekDievu, vector<dievas> &dievai) {
 int rastiSuma(dievas d, int &kiekLyginiu) {
     int suma = 0;
     kiekLyginiu = 0;
-    for (int &taskas : d.taskai) {
+    for (int taskas : d.taskai) {
         if (taskas % 2 == 0) {
             suma += taskas;
             kiekLyginiu++;
