@@ -69,5 +69,5 @@ int main () {
     int litai = kainaCentais / 100;
     int centai = kainaCentais % 100;
     cout << litai << " " << centai << "\n";
-	return 0;
+    return 0;
 }
