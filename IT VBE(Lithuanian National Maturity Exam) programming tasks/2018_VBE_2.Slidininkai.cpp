@@ -25,7 +25,7 @@ void rikiuotiSlidininkus(vector<pair<string, int>> &slidininkai) {
     }
 }
 
-/// funkcija, kuri spausddina rezultatus faile
+/// funkcija, kuri spausdina rezultatus faile
 void spausdintiRezultatusFaile(vector<pair<string, int>> sportininkai) {
     freopen("U2rez.txt", "w", stdout);
     for (auto pora : sportininkai) {
