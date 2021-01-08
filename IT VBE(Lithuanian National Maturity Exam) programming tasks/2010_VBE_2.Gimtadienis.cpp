@@ -36,7 +36,7 @@ int skaiciuotiSvecioPietuKaina(int dydis, int kainos[], patiekalas patiekalai[])
     return suma;
 }
 
-int main () {
+int main() {
     /// pasakome, kad dirbsime su failais
     freopen("U2.txt", "r", stdin);
     freopen("U2rez.txt", "w", stdout);
