@@ -16,7 +16,7 @@ struct sekosVykdymas {
     }
 };
 
-int main () {
+int main() {
     /// pasakome, kad dirbsime su failais
     freopen("U2.txt", "r", stdin);
     freopen("U2rez.txt", "w", stdout);
