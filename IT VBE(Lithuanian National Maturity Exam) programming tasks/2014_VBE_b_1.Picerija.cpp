@@ -39,5 +39,5 @@ int main () {
     }
     /// spausdiname rezultatus
     spausdintiRezultatus(neaptarnauta, jauNuvaziuota);
-	return 0;
+    return 0;
 }
