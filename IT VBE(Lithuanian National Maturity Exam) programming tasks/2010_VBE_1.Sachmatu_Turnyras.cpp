@@ -21,7 +21,7 @@ int kiekKomplektu(int figuros[], int mokiniuKiekis) {
     return min(galim, mokiniuKiekis);
 }
 
-int main () {
+int main() {
     /// pasakome, kad dirbsime su failais
     freopen("U1.txt", "r", stdin);
     freopen("U1.rez.txt", "w", stdout);
