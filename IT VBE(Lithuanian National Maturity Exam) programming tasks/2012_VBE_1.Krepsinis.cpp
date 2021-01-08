@@ -85,7 +85,7 @@ int rastiDaugiausiaiSedejusi(krepsininkas krepsininkai[], int krepsininkuKiekis)
     return indeksas;
 }
 
-int main () {
+int main() {
     /// pasakom, kad dirbsime su failu
     freopen("U1rez.txt", "w", stdout);
     /// sukuriam kintamuosius
