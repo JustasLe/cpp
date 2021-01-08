@@ -40,7 +40,7 @@ int rastiGeriausia(vector<int> &taskai, vector<int> direktoriausTaskai) {
     return rezultatai[0].second + 1;
 }
 
-int main () {
+int main() {
     /// pasakome, kad dirbsime su failais
     freopen("U1.txt", "r", stdin);
     freopen("U1rez.txt", "w", stdout);
