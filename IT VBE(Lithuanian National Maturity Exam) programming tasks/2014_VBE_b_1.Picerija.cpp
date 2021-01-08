@@ -25,7 +25,7 @@ void spausdintiRezultatus(int kiekNeaptarnautu, int nuvaziuotiKilometrai) {
     cout << kiekNeaptarnautu << " " << nuvaziuotiKilometrai << "\n";
 }
 
-int main () {
+int main() {
     /// sukuriam kintamuosius ir nusiskaitome duomenis
     int kiekUzsakovu, kilometruPlanas;
     vector<pair<int, int>> uzsakovai; /// uzsakovo x ir y
