@@ -70,7 +70,7 @@ dievas surastiValdova(int kiekDievu, vector<dievas> dievai) {
     return valdovas;
 }
 
-int main () {
+int main() {
     /// pasakome, kad dirbsime su failu
     freopen("U2rez.txt", "w", stdout);
     int kiekDievu;
